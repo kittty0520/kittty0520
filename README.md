@@ -1,7 +1,7 @@
 
-
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+<div align="center">
+
   
 😀안녕하세요! <br/>
 🙋‍♀️더 나은 내일을 위해 나아가는 프론트엔드 개발자가 되고 싶습니다.
