@@ -4,8 +4,11 @@
 
 저는
 
-  🙋‍♀️프론트엔드 개발자가 되기 위해 공부하고 있습니다.
-  🏊‍♂️Javascript, Typescript, React에 익숙해지기 위해 노력중입니다.
+  🙋‍♀️더 나은 내일을 위해 나아가는 프론트엔드 개발자가 되고 싶습니다.
+
+
+## 언어 및 도구
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/figma-#F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
 
 <!--
 **kittty0520/kittty0520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
