@@ -1,5 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
+😀안녕하세요!
+
+저는
+
+  🙋‍♀️프론트엔드 개발자가 되기 위해 공부하고 있습니다.
+  🏊‍♂️Javascript, Typescript, React에 익숙해지기 위해 노력중입니다.
 
 <!--
 **kittty0520/kittty0520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
